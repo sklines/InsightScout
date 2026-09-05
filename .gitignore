@@ -1,0 +1,16 @@
+# secrets
+.env
+.env.*
+*.key
+*.pem
+
+# node
+node_modules/
+npm-debug.log*
+
+# python
+__pycache__/
+*.pyc
+
+# logs
+*.log
